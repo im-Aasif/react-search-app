@@ -1,0 +1,8 @@
+.counter-button {
+    width: 100px;
+    height: 2em;
+    background-color: chocolate;
+    color: snow;
+    border-radius: 2px;
+    border: 5px sienna solid; 
+}

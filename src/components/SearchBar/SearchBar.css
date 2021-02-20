@@ -1,0 +1,26 @@
+.search-input {
+    display: inline-block;
+    height: 40px;
+    width: 50%;
+    margin: 0 auto;
+    font-size: 15px;
+    color: #666666;
+    text-indent: 8px;
+    border: 1px solid #2d2d2d;
+    border-radius: 2px;
+}
+  
+.text-field-position {
+  position: relative;
+  text-align: center;
+}
+  
+.text-field-position span {
+  position: relative;
+  font-size: 20px;
+  right: 1em;
+  top: 0;
+  bottom: 0;
+  cursor: pointer;
+  /* line-height: 40px; */
+}
